@@ -14,15 +14,21 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+     <string name="pref_camera_iso_entry_auto" translatable="false">Auto</string>
      <string name="pref_camera_iso_entry_iso50" translatable="false">ISO50</string>
+     <string name="pref_camera_iso_entry_iso100" translatable="false">ISO100</string>
      <string name="pref_camera_iso_entry_iso125" translatable="false">ISO125</string>
+     <string name="pref_camera_iso_entry_iso200" translatable="false">ISO200</string>
      <string name="pref_camera_iso_entry_iso250" translatable="false">ISO250</string>
      <string name="pref_camera_iso_entry_iso320" translatable="false">ISO320</string>
+     <string name="pref_camera_iso_entry_iso400" translatable="false">ISO400</string>
      <string name="pref_camera_iso_entry_iso500" translatable="false">ISO500</string>
      <string name="pref_camera_iso_entry_iso640" translatable="false">ISO640</string>
+     <string name="pref_camera_iso_entry_iso800" translatable="false">ISO800</string>
      <string name="pref_camera_iso_entry_iso1000" translatable="false">ISO1000</string>
      <string name="pref_camera_iso_entry_iso1200" translatable="false">ISO1200</string>
      <string name="pref_camera_iso_entry_iso1250" translatable="false">ISO1250</string>
+     <string name="pref_camera_iso_entry_iso1600" translatable="false">ISO1600</string>
      <string name="pref_camera_iso_entry_iso2000" translatable="false">ISO2000</string>
      <string name="pref_camera_iso_entry_iso2500" translatable="false">ISO2500</string>
      <string name="pref_camera_iso_entry_iso3200" translatable="false">ISO3200</string>
